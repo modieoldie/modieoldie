@@ -12,9 +12,13 @@
 
 <!-- ===== FOCUS / AVAILABILITY (subtle flat badges) ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development%20%C2%B7%20Software%20Engineering%20%C2%B7%20Product%20Management%20%C2%B7%20Data%20Engineering-1c1c26?style=flat-square&labelColor=A78BFA" alt="focus"/><!-- EDIT -->
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development%20%C2%B7%20Software%20Engineering%20%C2%B7%20Product%20Management%20-1c1c26?style=flat-square&labelColor=A78BFA" alt="focus"/><!-- EDIT -->
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%C2%B7%20Full--Time-1c1c26?style=flat-square&labelColor=22D3EE" alt="open to"/><!-- EDIT -->
+  &nbsp;
+  <a href="https://whosbaron.com"><!-- EDIT -->
+    <img src="https://img.shields.io/badge/Website-whosbaron.com-1c1c26?style=flat-square&labelColor=A78BFA" alt="website"/>
+  </a>
 </p>
 
 <!-- ===== TECH STACK (custom SVG — matches header, lives in repo) ===== -->
@@ -45,6 +49,9 @@
 
 <!-- ===== SOCIAL LINKS (shields.io badges as links) ===== -->
 <p align="center">
+  <a href="https://whosbaron.com"><!-- EDIT -->
+    <img src="https://img.shields.io/badge/Website-whosbaron.com-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://linkedin.com/in/whosbaron"><!-- EDIT -->
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
