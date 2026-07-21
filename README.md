@@ -19,8 +19,8 @@
 
 <!-- ===== LIVE STAT CARDS (github-readme-stats — live-generated SVG) ===== -->
 <p align="center">
-  <img width="481" src="https://github-readme-stats-alpha-eight-20.vercel.app/api?username=modieoldie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08080c&title_color=A78BFA&icon_color=22D3EE&text_color=C7C9D1" alt="stats"/>
-  <img width="365" src="https://github-readme-stats-alpha-eight-20.vercel.app/api/top-langs/?username=modieoldie&layout=compact&theme=tokyonight&hide_border=true&bg_color=08080c&title_color=A78BFA&text_color=C7C9D1" alt="top langs"/>
+  <img width="56%" src="https://github-readme-stats-alpha-eight-20.vercel.app/api?username=modieoldie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08080c&title_color=A78BFA&icon_color=22D3EE&text_color=C7C9D1" alt="stats"/>
+  <img width="42%" src="https://github-readme-stats-alpha-eight-20.vercel.app/api/top-langs/?username=modieoldie&layout=compact&theme=tokyonight&hide_border=true&bg_color=08080c&title_color=A78BFA&text_color=C7C9D1" alt="top langs"/>
 </p>
 
 <!-- ===== STREAK STATS ===== -->
