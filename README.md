@@ -10,6 +10,13 @@
   </a>
 </p>
 
+<!-- ===== FOCUS / AVAILABILITY (subtle flat badges) ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development%20%C2%B7%20Software%20Engineering%20%C2%B7%20Product%20Management%20%C2%B7%20Data%20Engineering-1c1c26?style=flat-square&labelColor=A78BFA" alt="focus"/><!-- EDIT -->
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%C2%B7%20Full--Time-1c1c26?style=flat-square&labelColor=22D3EE" alt="open to"/><!-- EDIT -->
+</p>
+
 <!-- ===== TECH STACK (custom SVG — matches header, lives in repo) ===== -->
 <p align="center">
   <img src="./assets/skills.svg" alt="tech stack" width="850" />
